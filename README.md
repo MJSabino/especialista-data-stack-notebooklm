@@ -97,7 +97,7 @@ A partir da consolidação do conhecimento das fontes no Gemini Notebook, gerei 
 ![Mapa Mental Data Stack](assests/NotebookLM-Mind-Map.jpg)
 
 - 📖 **Guia de Estudos / Documentos:**
-  - [Acessar Guia em PDF](materiais/guia-de-estudos-data-stack.pdf)
+  - [Acessar Guia em PDF](materiais/Modern_Data_and_AI_Ecosystem.pdf)
 
 ---
 
