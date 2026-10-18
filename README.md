@@ -54,7 +54,7 @@ Aqui estão quatro perguntas fundamentais que fiz ao notebook para validar se el
 - **Fontes usadas na resposta:** Fontes `1`, `2`, `3` e `7`.
 - **Evidência do Chat:**
 
-![O que é Data Stack](assets/print-1-data-stack.jpeg)
+![O que é Data Stack](assests/print-1-data-stack.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ Aqui estão quatro perguntas fundamentais que fiz ao notebook para validar se el
 - **Fontes usadas na resposta:** Fontes `1`, `2` e `3`.
 - **Evidência do Chat:**
 
-![Camadas do Data Lakehouse](assets/print-2-data-lakehouse.jpeg)
+![Camadas do Data Lakehouse](assests/print-2-data-lakehouse.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Aqui estão quatro perguntas fundamentais que fiz ao notebook para validar se el
 - **Fontes usadas na resposta:** Fontes `1`, `4` e `5`.
 - **Evidência do Chat:**
 
-![Formato Parquet](assets/print-3-parquet.jpeg)
+![Formato Parquet](assests/print-3-parquet.jpeg)
 
 ---
 
@@ -84,7 +84,7 @@ Aqui estão quatro perguntas fundamentais que fiz ao notebook para validar se el
 - **Fontes usadas na resposta:** Fontes `1`, `2`, `4`, `5` e `7`.
 - **Evidência do Chat:**
 
-![ETL vs ELT](assets/print-4-etl-vs-elt.jpeg)
+![ETL vs ELT](assests/print-4-etl-vs-elt.jpeg)
 
 ---
 
@@ -94,10 +94,10 @@ A partir da consolidação do conhecimento das fontes no Gemini Notebook, gerei 
 
 - 🧠 **Mapa Mental Completo:**
 
-![Mapa Mental Data Stack](assets/NotebookLM-Mind-Map.jpg)
+![Mapa Mental Data Stack](assests/NotebookLM-Mind-Map.jpg)
 
 - 📖 **Guia de Estudos / Documentos:**
-  - [Acessar Guia em PDF](materiais/guia-de-estudos-data-stack.pdf) *(opcional se tiver subido o PDF)*
+  - [Acessar Guia em PDF](materiais/guia-de-estudos-data-stack.pdf)
 
 ---
 
@@ -107,4 +107,3 @@ Fique à vontade para explorar o caderno e navegar pelas fontes e citações:
 
 - 🚀 [Abrir o Gemini Notebook — Data Stack: Da Coleta ao BI](https://notebook.google.com/notebook/e37d5494-5655-4664-8390-78631c950252?authuser=3)
 
-> *Nota: O notebook está configurado como público/compartilhado e não contém dados pessoais.*
